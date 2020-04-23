@@ -1,0 +1,8 @@
+ol_and_ul.css
+
+ol {
+	list-style-type: upper-roman;
+}
+ul {
+	list-style-type: round;
+}

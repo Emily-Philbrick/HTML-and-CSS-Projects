@@ -1,0 +1,24 @@
+Basic_CSS_1.css
+
+body	{
+		background: #8A2BE2;
+		font-family: arial;
+	}
+	h1 {
+		font-size: 18px;
+
+	}
+	a {
+		color: #8A2BE2;
+		text-decoration: underline;
+	}
+	a:hover {
+		color: #000000;
+		text-decoratio: none;
+	}
+	h2 {
+		font-size: 16px;
+	}
+	p {
+		font-size: 14px;
+	}

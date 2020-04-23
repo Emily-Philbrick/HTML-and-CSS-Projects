@@ -1,0 +1,15 @@
+CSS_Table.css
+
+table {
+	border-style: ridge; border-width: 150px; border-color: #DC143C; background-color: #FFE4C4;
+}
+
+tr:hover {
+	background-color: pink; 
+	color: white;
+}
+
+tr, th {
+	background-color: black;
+	color: cornsilk;
+}
