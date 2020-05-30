@@ -52,7 +52,7 @@ body {
     opacity: 1; 
     /*while hovered, drop down-menu appears 
     This also avoids a block-level bu */
-    visibility: visable;
+    visibility: visible;
 }
 
 .submenu {
